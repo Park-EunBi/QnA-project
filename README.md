@@ -1,12 +1,9 @@
 # QnA-project
-
+## 2021 ~ 2022 창업 동아리 
 ### 2021년도 2학기에 구현했던 ExchangeDiary-project의 기능을 수정, 보완하여 안드로이드 앱으로 구현
 
 연관 repository  
 https://github.com/Park-EunBi/ExchangeDiary-project.git
-
-# QnA-project
-## 2021 창업 동아리 
 
 ### 프로젝트 주제 
 QnA를 기반으로 하는 안드로이드 sns 서비스  
