@@ -4,6 +4,7 @@
 
 연관 repository  
 https://github.com/Park-EunBi/ExchangeDiary-project.git
+---
 
 ### 프로젝트 주제 
 QnA를 기반으로 하는 안드로이드 sns 서비스  
